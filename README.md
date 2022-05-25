@@ -1,4 +1,7 @@
 # challenge2
+**NOTE: Github might only let me host one deployed URL at a time, but this is what it should be deployed at:
+https://tanyamilburn.github.io/portfolio-grapefruit/
+
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
